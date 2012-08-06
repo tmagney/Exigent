@@ -1,0 +1,5 @@
+C:\projects\exigent\Exigent\obj\Debug\Exigent.csprojResolveAssemblyReference.cache
+C:\projects\exigent\Exigent\bin\Debug\Exigent.dll
+C:\projects\exigent\Exigent\bin\Debug\Exigent.pdb
+C:\projects\exigent\Exigent\obj\Debug\Exigent.dll
+C:\projects\exigent\Exigent\obj\Debug\Exigent.pdb

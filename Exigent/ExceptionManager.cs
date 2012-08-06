@@ -10,12 +10,12 @@
     {
         private static Dictionary<int, Ex> exceptions;
 
-        private static ExceptionManager()
+        static ExceptionManager()
         {
             exceptions = new Dictionary<int, Ex>();
         }
         
-        public static Ex Get()
+        internal static Ex Get()
         {
             //TODO: How to override indexer?
             //NOTE: Is that a good idea?
@@ -31,6 +31,12 @@
             }
 
             return ex;
+        }
+
+        public static void AddData(dynamic data)
+        {
+            var ex = Get();
+            ex.Data = data;
         }
 
         public static void AddInnerException(Exception inner)
