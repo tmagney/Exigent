@@ -41,6 +41,7 @@
   <ItemGroup>
     <Compile Include="Ex.cs" />
     <Compile Include="ExceptionManager.cs" />
+    <None Include="ExceptionSource.cs" />
     <Compile Include="Exigent.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

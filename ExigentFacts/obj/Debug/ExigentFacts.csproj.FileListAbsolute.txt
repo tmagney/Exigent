@@ -1,0 +1,12 @@
+C:\Projects\Exigent\ExigentFacts\bin\Debug\ExigentFacts.dll
+C:\Projects\Exigent\ExigentFacts\bin\Debug\ExigentFacts.pdb
+C:\Projects\Exigent\ExigentFacts\bin\Debug\Exigent.dll
+C:\Projects\Exigent\ExigentFacts\bin\Debug\FluentAssertions.dll
+C:\Projects\Exigent\ExigentFacts\bin\Debug\xunit.dll
+C:\Projects\Exigent\ExigentFacts\bin\Debug\Exigent.pdb
+C:\Projects\Exigent\ExigentFacts\bin\Debug\FluentAssertions.pdb
+C:\Projects\Exigent\ExigentFacts\bin\Debug\FluentAssertions.xml
+C:\Projects\Exigent\ExigentFacts\bin\Debug\xunit.xml
+C:\Projects\Exigent\ExigentFacts\obj\Debug\ExigentFacts.csprojResolveAssemblyReference.cache
+C:\Projects\Exigent\ExigentFacts\obj\Debug\ExigentFacts.dll
+C:\Projects\Exigent\ExigentFacts\obj\Debug\ExigentFacts.pdb
